@@ -23,11 +23,6 @@ docker compose down
 ```
 ![image](https://github.com/user-attachments/assets/6966299f-3a94-4079-a1e6-21dbc43d2358)
 
-## Criação do Azure DataLake Storage
-
-Veja o [README](/iac/adls/README.md) da pasta `/iac/adls`.
-
-
 ## Execução dos Scripts Python para o ELT
 
 Este projeto utiliza a versão `3.12` do Python, o gerenciador de projeto em Python `uv` (Universal Versioning) e as seguintes bibliotecas (estão no `pyproject.toml`):
