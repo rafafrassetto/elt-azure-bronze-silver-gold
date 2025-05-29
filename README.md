@@ -1,8 +1,8 @@
 # Requisitos 
 
-1.Execução do [Projeto 1](https://github.com/jlsilva01/adls-azure)
+1 - Execução do [Projeto 1](https://github.com/jlsilva01/adls-azure)
 
-2.Execução do [Projeto 2](https://github.com/jlsilva01/projeto-elt-satc-airflow)
+2 - Execução do [Projeto 2](https://github.com/jlsilva01/projeto-elt-satc-airflow)
 
 # Demonstração 
 
